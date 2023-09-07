@@ -8,7 +8,7 @@ Applications of DDPMs in Medical Imaging: This code contains implementation of D
 
 ### Under Construction...
 * **Warning: This project is still under development and it's not yet ready for real-world usage!** Please wait for the first official release... :)
-* Soon the code would be available in the form of a library which could be installed using pip install command.
+* Soon the code would be available in the form of a library which could be installed using ```pip install``` command.
 * more detail will be added after the first official release
 
 Here are some results of the code on the MNIST dataset:
