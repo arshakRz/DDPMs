@@ -20,7 +20,7 @@ Here are some results of the code on the MNIST dataset:
 This sample is generated without CFG and normal DDPM sampler:
 
 <p align="center">
-  <img src="figs/download (1).png" style="max-width: 270;">
+  <img src="figs/download (3).png" style="max-width: 270;">
 </p>
 
 Here is a GIF of a generated digit from pure gaussian noise with the setting above:
