@@ -17,7 +17,7 @@ Here are some results of the code on the MNIST dataset:
   <img src="figs/download (2).png"">
 </p>
 
-This sample is generated without CFG and normal DDPM sampler:
+This sample is generated without CFG and normal DDPM sampler (1000 steps):
 
 <p align="center">
   <img src="figs/download (3).png" style="max-width: 270;">
