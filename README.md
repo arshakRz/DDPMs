@@ -1,7 +1,7 @@
 # DDPMs
 
 <p align="center">
-  <img src="https://github.com/MeysamAmirsardari/PoseModel/blob/main/UI/poseModel.jpg" width="270" height="270">
+  <img src="figs/diffusion-models-forwardbackward_process_ddpm.png" width="350" height="270">
 </p>
 
 PosModel: Robust Behavioral Latent Embedding Toolkit Based on
