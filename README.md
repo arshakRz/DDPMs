@@ -17,6 +17,8 @@ Here are some results of the code on the MNIST dataset:
   <img src="https://github.com/MeysamAmirsardari/PoseModel/blob/main/UI/pma.jpg" style="max-width: 70%;">
 </p>
 
+This sample is generated without CFG and normal DDPM sampler:
+
 <p align="center">
   <img src="https://github.com/MeysamAmirsardari/PoseModel/blob/main/UI/sam.png" style="max-width: 270;">
 </p>
