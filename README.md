@@ -26,5 +26,5 @@ This sample is generated without CFG and normal DDPM sampler (1000 steps):
 Here is a GIF of a generated digit from pure gaussian noise with the setting above:
 
 <p align="center">
-  <img src="figs/out (3).gif" autoplay loop width="100" height="100"></video>
+  <img src="figs/out (6).gif" autoplay loop width="100" height="100"></video>
 </p>
