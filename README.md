@@ -14,7 +14,7 @@ Applications of DDPMs in Medical Imaging: This code contains implementation of D
 Here are some results of the code on the MNIST dataset:
 
 <p align="center">
-  <img src="https://github.com/MeysamAmirsardari/PoseModel/blob/main/UI/pma.jpg" style="max-width: 70%;">
+  <img src="figs/download (2).png"">
 </p>
 
 This sample is generated without CFG and normal DDPM sampler:
