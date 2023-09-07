@@ -1,7 +1,7 @@
 # DDPMs
 
 <p align="center">
-  <img src="figs/diffusion-models-forwardbackward_process_ddpm.png" width="350" height="270">
+  <img src="figs/diffusion-models-forwardbackward_process_ddpm.png" width="600" height="270">
 </p>
 
 PosModel: Robust Behavioral Latent Embedding Toolkit Based on
