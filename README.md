@@ -4,8 +4,7 @@
   <img src="figs/diffusion-models-forwardbackward_process_ddpm.png">
 </p>
 
-PosModel: Robust Behavioral Latent Embedding Toolkit Based on
-Spatio‑Temporal Graph Modeling
+Applications of DDPMs in Medical Imaging: This code contains implementation of Denoising Diffusion Probabilistic Models with Classifer Free Guidance and DDIM sampler.
 
 ### Under Construction...
 * **Warning: This project is still under development and it's not yet ready for real-world usage!** Please wait for the first official release... :)
