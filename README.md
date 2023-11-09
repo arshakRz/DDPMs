@@ -4,7 +4,11 @@
   <img src="figs/diffusion-models-forwardbackward_process_ddpm.png">
 </p>
 
-Applications of DDPMs in Medical Imaging: This code contains implementation of Denoising Diffusion Probabilistic Models with Classifer Free Guidance and DDIM sampler. One can use this implementation on any sort of data such as fMRI.
+PD Gait Data Generation Using DDPMs and Weak Supervision: This code contains implementation of Denoising Diffusion Probabilistic Models with Classifer Free Guidance and DDIM sampler. The goal is to generate rare PD gait conditions using Weak Supervision. Using weak supervision is essential because labeling PD gait data is a very hard and time-consuming task and we want to be able to generate PD gait at different stages of the disease. Moreover, one can use this implementation on any sort of data such as fMRI.
+
+<p align="center">
+  <img src="figs/weak.png"">
+</p>
 
 ### Under Construction...
 * **Warning: This project is still under development and it's not yet ready for real-world usage!** Please wait for the first official release... :)
