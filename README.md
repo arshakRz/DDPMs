@@ -37,5 +37,5 @@ This is the output of the model trained on real PD data for two Normal (Left) an
 
 <div style="display: flex; justify-content: center;">
   <img src="figs/skeleton_animation_36_0.gif" autoplay loop width="200" height="200" speed="5.0">
-  <img src="figs/gait1.gif" autoplay loop width="200" height="200" speed="5.0">
+  <img src="figs/skeleton_animation_79_1.gif" autoplay loop width="200" height="200" speed="5.0">
 </div>
