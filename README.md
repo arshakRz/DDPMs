@@ -33,4 +33,9 @@ Here is a GIF of a generated digit from pure gaussian noise with the setting abo
   <img src="figs/ezgif.com-gif-maker.gif" autoplay loop width="200" height="200" speed="5.0"></video>
 </p>
 
-This is the output of the model trained on real PD data for two Normal and Severe cases:
+This is the output of the model trained on real PD data for two Normal (Left) and Severe (Right) cases:
+
+<div style="display: flex; justify-content: center;">
+  <img src="figs/gait0.gif" autoplay loop width="200" height="200" speed="5.0">
+  <img src="figs/gait1.gif" autoplay loop width="200" height="200" speed="5.0">
+</div>
