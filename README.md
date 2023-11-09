@@ -38,8 +38,6 @@ This is the output of the model trained on real PD data for two Normal (Left) an
 <div style="display: flex; justify-content: center; align-items: center;">
   <p align="center">
     <img src="figs/skeleton_animation_36_0.gif" autoplay loop width="300" speed="5.0">
-  </p>
-  <p align="center">
     <img src="figs/skeleton_animation_79_1.gif" autoplay loop width="300" speed="5.0">
   </p>
 </div>
