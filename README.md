@@ -7,7 +7,7 @@
 PD Gait Data Generation Using DDPMs and Weak Supervision: This code contains implementation of Denoising Diffusion Probabilistic Models with Classifer Free Guidance and DDIM sampler. The goal is to generate rare PD gait conditions using Weak Supervision. Using weak supervision is essential because labeling PD gait data is a very hard and time-consuming task and we want to be able to generate PD gait at different stages of the disease. Moreover, one can use this implementation on any sort of data such as fMRI.
 
 <p align="center">
-  <img src="figs/weak.png" width="100" height="50">
+  <img src="figs/weak.png" width="250" height="200">
 </p>
 
 ### Under Construction...
