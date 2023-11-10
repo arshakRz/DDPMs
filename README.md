@@ -35,7 +35,7 @@ Here is a GIF of a generated digit from pure gaussian noise with the setting abo
 
 Overview of the moodel, I used a Transformer architecture to generate a timeseries data with the Weak Supervision model to guide the diffusion model:
 <p align="center">
-  <img src="figs/model.png" style="max-width: 240;">
+  <img src="figs/model.png" style="max-width: 160;">
 </p>
 
 This is the output of the model trained on real PD data for two Normal (Left) and Severe (Right) cases:
