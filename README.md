@@ -37,7 +37,7 @@ Overview of the moodel, I used a Transformer architecture to generate a timeseri
 
 
 <p align="center">
-  <img src="figs/model.png"  width="500"> 
+  <img src="figs/model.png"  width="800"> 
 </p>
 
 This is the output of the model trained on real PD data for two Normal (Left) and Severe (Right) cases:
