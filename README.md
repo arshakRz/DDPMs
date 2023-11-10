@@ -15,13 +15,15 @@ PD Gait Data Generation Using DDPMs and Weak Supervision: This code contains imp
 * Soon the code would be available in the form of a library which could be installed using ```pip install``` command.
 * more detail will be added after the first official release
 
-<centre> Here are some results of the code on the MNIST dataset:
+<div style="text-align: center;">
+Here are some results of the code on the MNIST dataset:
+</div>
 
 <p align="center">
   <img src="figs/download (2).png"">
 </p>
 
-<centre> This sample is generated without CFG and normal DDPM sampler (1000 steps):
+This sample is generated without CFG and normal DDPM sampler (1000 steps):
 
 <p align="center">
   <img src="figs/download (3).png" style="max-width: 270;">
