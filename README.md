@@ -15,13 +15,13 @@ PD Gait Data Generation Using DDPMs and Weak Supervision: This code contains imp
 * Soon the code would be available in the form of a library which could be installed using ```pip install``` command.
 * more detail will be added after the first official release
 
-Here are some results of the code on the MNIST dataset:
+<centre> Here are some results of the code on the MNIST dataset:
 
 <p align="center">
   <img src="figs/download (2).png"">
 </p>
 
-This sample is generated without CFG and normal DDPM sampler (1000 steps):
+<centre> This sample is generated without CFG and normal DDPM sampler (1000 steps):
 
 <p align="center">
   <img src="figs/download (3).png" style="max-width: 270;">
@@ -35,7 +35,7 @@ Here is a GIF of a generated digit from pure gaussian noise with the setting abo
 
 Overview of the moodel, I used a Transformer architecture to generate a timeseries data with the Weak Supervision model to guide the diffusion model:
 <p align="center">
-  <img src="figs/model.png" style="max-width: 270;">
+  <img src="figs/model.png" style="max-width: 240;">
 </p>
 
 This is the output of the model trained on real PD data for two Normal (Left) and Severe (Right) cases:
