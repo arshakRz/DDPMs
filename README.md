@@ -1,13 +1,9 @@
 # DDPMs
 
-<p align="center">
-  <img src="figs/diffusion-models-forwardbackward_process_ddpm.png">
-</p>
-
 PD Gait Data Generation and High Accuracy Classification Using DDPMs: This repository includes code for implementing Denoising Diffusion Probabilistic Models enhanced with Classifier-Free Guidance and a DDIM sampler. It also introduces an innovative approach that integrates GANs with DDPMs, training a classifier in tandem with the Diffusion Model. This fusion utilizes gradients to augment the Diffusion Model's performance while achieving a highly accurate classifier. Additionally, this implementation is versatile and can be applied to various data types, including fMRI.
 
 <p align="center">
-  <img src="figs/weak.png"  width="500"> 
+  <img src="figs/Fig1.jpg"  width="500"> 
 </p>
 
 ### Under Construction...
