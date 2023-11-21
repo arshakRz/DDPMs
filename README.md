@@ -36,4 +36,10 @@ This is the output of the model trained on real PD data for two Normal (Left) an
     <img src="figs/skeleton_animation_36_0.gif" autoplay loop width="400" speed="5.0">
     <img src="figs/skeleton_animation_79_1.gif" autoplay loop width="400" speed="5.0">
   </p>
-</div>
+</div
+
+The outcome of the classification process is presented here. This classification was performed using the KNN algorithm, which was trained on data produced by the model and then evaluated using a test dataset.
+
+<p align="center">
+  <img src="figs/download.png" style="max-width: 270;">
+</p>
